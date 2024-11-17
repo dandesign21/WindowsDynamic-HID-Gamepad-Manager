@@ -15,12 +15,12 @@ A PowerShell script to dynamically manage and customize the activation order of 
 ## How to Use
 
 1. **Download the Script**  
-   Save the `DeviceWizard.ps1` file to your computer.
+   Save the `OrdenControladores.ps1` file to your computer.
 
 2. **Run the Script**  
    Open PowerShell as an administrator and navigate to the directory where the file is located. Execute the script with:
    ```powershell
-   .\DeviceWizard.ps1
+   .\OrdenControladores.ps1
 
 Follow the Instructions
 
